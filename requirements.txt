@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+gTTS
+playsound
+wikipedia-api
+pygame
+twilio
+pyjokes
+smtplib
+requests
